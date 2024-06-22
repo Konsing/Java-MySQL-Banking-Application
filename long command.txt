@@ -1,0 +1,13 @@
+Steps:
+
+1. Open the server
+2. Open the client
+3. Compile your java file
+4. Open a new CMD window and navigate to the location of this compiled java file
+5. Type the command below
+
+cd Desktop/CIS 36B/Connect4 Final
+
+java -cp .;C:\users\manyu\Desktop\\School\myWebProject\mysql-connector-java-8.0.28\mysql-connector-java-8.0.28.jar Connect4
+
+cd Desktop/myWebProject/mysql/bin/

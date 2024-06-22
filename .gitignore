@@ -1,0 +1,3 @@
+# Ignore mysql files
+mysql/
+mysql-connector-java-8.0.28/
